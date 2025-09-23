@@ -29,7 +29,7 @@ title: 设备与I/O
 
 ### Tip
 
-- ![image-20250406213209565](./resource/image-20250406213209565.png)
+- ![image-20250406213209565](./resources/image-20250406213209565.png)
 
 ## 传统的三级总线
 
@@ -48,7 +48,7 @@ title: 设备与I/O
 
 ### Tip
 
-- ![image-20250406213153644](./resource/image-20250406213153644.png)
+- ![image-20250406213153644](./resources/image-20250406213153644.png)
 
 ## 南北桥多级总线
 
@@ -62,7 +62,7 @@ title: 设备与I/O
 
 ### Tip
 
-- ![image-20250407143630713](./resource/image-20250407143630713.png)
+- ![image-20250407143630713](./resources/image-20250407143630713.png)
 
 ## I/O通道多级总线
 
@@ -73,4 +73,4 @@ title: 设备与I/O
 
 ### Tip
 
-- ![image-20250407143915194](./resource/image-20250407143915194.png)
+- ![image-20250407143915194](./resources/image-20250407143915194.png)
